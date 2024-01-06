@@ -21,6 +21,10 @@ public class SwaggerApiClientExample {
         } catch (ApiException e) {
             // Handle API exceptions
             System.err.println("API Error: " + e.getMessage());
+
+
+
+            
         }
     }
 }
