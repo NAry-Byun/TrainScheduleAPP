@@ -16,8 +16,11 @@ As student commute to the city weekly for school, we constantly find ourselves c
 Start by creating a sequence diagram to understand how to develop an application. Identify the required programming languages and conduct a thorough study on them.
 
 Front-End: Java script, React
+
 Node.js
+
 Back-End: Java, Spring boot
+
 Cloud: AWS
 
 
