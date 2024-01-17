@@ -6,8 +6,10 @@
 3. Which functionalities
 4. Any issues?
 
+
 <h2>1.Why Tranin Schedule App? </h2>
 As student commute to the city weekly for school, we constantly find ourselves checking the train schedule. We envision the convenience of having a personalised train schedule widget on our mobile screen, making the process enjoyable and efficient.
+
 
 <h2>2.What steps can we take to.</h2>
 
@@ -34,7 +36,8 @@ The main focus is to display the station schedule time in real-time.
 
 Second, Schedule wideget on mobile screen.
 
-<h2>3.Any issues?.</h2>
+
+<h2>4.Any issues?.</h2>
 
 
 ![Screenshot 2024-01-06 234456](https://github.com/NAry-Byun/TrainScheduleAPP/assets/153330377/b0d7732d-5096-4ba0-a5cf-fcd2f5dde37b)
